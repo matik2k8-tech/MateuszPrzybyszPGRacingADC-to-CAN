@@ -1,0 +1,18 @@
+"Id";"Oznaczenie";"Footprint";"Liczba";"Oznaczenie";"Dostawca i numer artykułu";
+1;"C1, C2";"C_0805_2012Metric";2;"10µF";;;
+2;"C3";"C_0805_2012Metric";1;"100µF";;;
+3;"C4, C7, C9";"C_0805_2012Metric";3;"100nF";;;
+4;"C5, C6";"C_0805_2012Metric";2;"C";;;
+5;"D1";"D_SMA";1;"SS34";;;
+6;"D2";"D_SMA";1;"D_Schottky";;;
+7;"F1";"Fuse_1206_3216Metric";1;"1A";;;
+8;"J1";"PinHeader_1x02_P2.54mm_Vertical";1;"14.7V_IN";;;
+9;"J2";"PinHeader_1x02_P2.54mm_Vertical";1;"Conn_01x02_Pin";;;
+10;"J3, J4";"PinHeader_1x01_P2.54mm_Vertical";2;"Conn_01x01_Pin";;;
+11;"R1";"R_0805_2012Metric";1;"10k";;;
+12;"R2";"R_0805_2012Metric";1;"R";;;
+13;"R3, R5";"R_0805_2012Metric";2;"39K";;;
+14;"R4, R6";"R_0805_2012Metric";2;"9,1k";;;
+15;"U1";"LQFP-32_7x7mm_P0.8mm";1;"STM32F303K8Tx";;;
+16;"U2";"SOIC-8_3.9x4.9mm_P1.27mm";1;"SN65HVD230";;;
+17;"U4";"SOT-223-3_TabPin2";1;"AP1117-33";;;
